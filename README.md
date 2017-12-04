@@ -1,5 +1,10 @@
-# tribute-page
+# Author
+![@jchurst](https://avatars0.githubusercontent.com/jchurst?&s=128)
 
-A Pen created at CodePen.io. You can find this one at http://codepen.io/jchurst/full/ZOQddo/.
+Created by JC Hurst
 
-Tribute Page project for Free Code Camp
+[Github](https://github.com/jchurst) | [FreeCodeCamp](http://www.freecodecamp.com/jchurst) | [CodePen](http://codepen.io/jchurst/) | [LinkedIn](https://www.linkedin.com/in/jchurst) | [Website](http://hurstcreative.com/) | [E-Mail](mailto:jchurstmail@gmail.com)
+
+# FreeCodeCamp Front End Project - Tribute Page
+
+A Pen created at CodePen.io for FreeCodeCamp: http://codepen.io/jchurst/full/ZOQddo/
